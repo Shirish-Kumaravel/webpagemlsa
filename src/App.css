@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.bgimg{
+  margin-top: 10px;
+  width:100%;
+  background-image:url('icons.jpg');
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.GreyBox{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.ContentBox{
+    
+  text-align: center;
+  background-color: white;
+  color: black;
+  border: 1px lightgrey;
+  box-shadow: 0 2px 3px #ccc;
+  margin-top: 350px;
+  margin-left: 20%;
+  margin-right: 20%;
+  
+  padding: 16px;
+}
+
+
+
+
+footer{
+  text-align: center;
+  color: darkgrey;
+  font-family:'Open Sans', sans-serif;
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  color:Red;
+}
+
+p{
+  line-height: 28px;
+  margin-bottom: 10px;
+}
