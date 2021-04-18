@@ -1,0 +1,16 @@
+.header{
+    text-align: left;
+    color: red;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.skillbox{
+    background-color: lightgrey;
+    padding:2%;
+    margin: 5%;
+    box-shadow: 2px grey;
+    text-align: left;
+    border-color: 2px red;
+    border-width: 2px;
+}
