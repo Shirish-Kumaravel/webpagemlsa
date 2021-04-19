@@ -54,7 +54,11 @@ class App extends Component {
         <NavigationBar button1={this.togglePage1Handler} 
         button2={this.togglePage2Handler}
         button3={this.togglePage3Handler}
-        button4={this.togglePage4Handler} /> 
+        button4={this.togglePage4Handler}
+        check1={this.state.page1}
+        check2={this.state.page2}
+        check3={this.state.page3}
+        check4={this.state.page4} /> 
         </div> 
         <div className='ContentBox'>
           <div>{this.state.page1?<About />:null}</div>

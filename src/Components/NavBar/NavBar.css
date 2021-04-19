@@ -62,3 +62,20 @@
       box-shadow: none;
       color:red;
   }
+  .rnavbutton{
+    text-align: center; 
+    color:red;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2vw;
+    background-color: black;
+    border-color: #000000;
+    
+ }
+
+
+ .rnavbutton:focus{
+     outline: none;
+     box-shadow: none;
+     color:red;
+ }
